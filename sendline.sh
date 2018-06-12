@@ -2,9 +2,7 @@
 
 #echo off
 
-#penguin = PoSpTbUWQ2QYOGYyodwp6ZCJNKME0pI2GhD9RGHzwEv
-#alert = qgWH0Igvq1VZlnEuihHpObhuIh14cR7JPSNbB44pqkB
-
+#Define bearer for notify
 export alert=iZZ4LonZTgiEtHpPON2BaUtIch7svdKlmygoetIz3nW
 export sos=PiaS6DPVBtYxS03bl3P3l8UPSpJSpswa4k3m7NgzW12
 
